@@ -1,6 +1,6 @@
 ## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Suryansh Pandey — a MERN Stack Developer 👨‍💻
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)][(https://yourportfolio.com](https://portfolio-blue-phi-72.vercel.app/))
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-blue-phi-72.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-SuryanshPandey-0e76a8?style=flat&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/suryanshhpandey/))
 ![Visitors](https://komarev.com/ghpvc/?username=Suryansh23102002&color=066da5&style=flat)
 
