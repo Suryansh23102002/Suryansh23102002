@@ -73,7 +73,7 @@ Currently working on cool full-stack projects 🚀 and always up for collaborati
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/Suryansh23102002/project1"><b>🚀 Project One</b></a></td>
+        <td><a href="https://github.com/Suryansh23102002/Pingup"><b>🚀 Project One</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Suryansh23102002/project1?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Suryansh23102002/project1?style=flat-square"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Suryansh23102002/project1?style=flat-square"/></td>
