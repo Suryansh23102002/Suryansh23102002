@@ -1,9 +1,8 @@
 ## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Suryansh Pandey — a MERN Stack Developer 👨‍💻
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Linkedin Badge](https://img.shields.io/badge/-SuryanshPandey-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Twitter Badge](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
-![Visitors](https://komarev.com/ghpvc/?username=yourgithubusername&color=066da5&style=flat)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)][(https://yourportfolio.com](https://portfolio-blue-phi-72.vercel.app/))
+[![Linkedin Badge](https://img.shields.io/badge/-SuryanshPandey-0e76a8?style=flat&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/suryanshhpandey/))
+![Visitors](https://komarev.com/ghpvc/?username=Suryansh23102002&color=066da5&style=flat)
 
 <img src="https://raw.githubusercontent.com/Suryansh23102002/Suryansh23102002/master/assets/github-snake-dark.svg" />
   
