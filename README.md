@@ -1,61 +1,105 @@
-## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Suryansh Pandey👨‍💻
+## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Suryansh Pandey — a MERN Stack Developer 👨‍💻
 
-<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Linkedin Badge](https://img.shields.io/badge/-SuryanshPandey-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Twitter Badge](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+![Visitors](https://komarev.com/ghpvc/?username=yourgithubusername&color=066da5&style=flat)
 
-### 🚀 MERN Stack Developer | 💡 Problem Solver | 🌐 Open Source Enthusiast  
+<img src="https://raw.githubusercontent.com/Suryansh23102002/Suryansh23102002/master/assets/github-snake-dark.svg" />
+  
+### Glad to see you here!  
 
-### Glad to see you here! 
-I specialize in building **full-stack web applications** using **MongoDB, Express, React, and Node.js**.  
-I’m passionate about **scalable apps**, **clean code**, and exploring new technologies.  
+I’m a **MERN Stack Developer** passionate about crafting scalable web apps, exploring system design, and diving into new technologies.  
+Currently working on cool full-stack projects 🚀 and always up for collaboration & open-source contributions.  
 
----
+<img align="right" alt="Coding Cat" src="./assets/coding.webp" width="300px"/>
 
-## 🛠️ Tech Stack
+### Talking about Personal Stuffs:
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat)  
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=flat)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)  
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff&style=flat)  
+- 🛠 &nbsp; Currently working on exciting MERN projects.
+- 🚀 &nbsp; Learning **TypeScript**, **Next.js**, and exploring **DevOps basics**.
+- 👨‍💻 &nbsp; Always looking forward to collab projects.
+- 📫 &nbsp; Reach me at: **yashpandey.2310@gmail.com**
 
 ---
 
-## 📊 GitHub Stats
+### My Favorites:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suryansh23102002&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-- 🔗 [Project 1](#) – Short description about what it does.  
-- 🔗 [Project 2](#) – Another project highlight.  
-- 🔗 [Project 3](#) – Add more if needed.  
+- 💻 &nbsp; Building Full-stack Web Apps  
+- 📰 &nbsp; Writing & reading tech blogs  
+- 🎯 &nbsp; Open-source contributions  
+- 🍕 &nbsp; Late-night coding + pizza  
 
 ---
 
-## 📬 Connect with Me  
+### 🛠️ Languages and Tools:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=fff&style=flat)](https://yourportfolio.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff&style=flat)](https://instagram.com/YOUR_INSTAGRAM)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=fff&style=flat)](mailto:YOUR_EMAIL@gmail.com)  
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="Express"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="TypeScript"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" alt="Next.js"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" alt="TailwindCSS"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub"></code>
 
 ---
 
-⭐️ From [Suryansh](https://github.com/Suryansh23102002)
+### 📊 Projects and Dev Stuffs  
+
+<details>	
+  <summary><b>⚡ GitHub Stats</b></summary>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Suryansh23102002&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh23102002&layout=compact&theme=radical&hide_border=true" />
+</details>
+
+<details>
+  <summary><b>🧑‍🚀 Featured Projects</b></summary>
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr>
+        <td><b>💻 Project</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 PRs</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/Suryansh23102002/project1"><b>🚀 Project One</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Suryansh23102002/project1?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Suryansh23102002/project1?style=flat-square"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Suryansh23102002/project1?style=flat-square"/></td>
+        <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/Suryansh23102002/project1?style=flat-square"/></td>
+        <td><img alt="Lang" src="https://img.shields.io/github/languages/top/Suryansh23102002/project1?style=flat-square"/></td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
+
+<details>
+  <summary><b>⚙️ Tools I Use</b></summary>
+  	<ul>
+  	  <li><b>OS:</b> Windows / Linux</li>
+  	  <li><b>Browser: </b> Brave / Chrome</li>
+	  <li><b>Editor:</b> VS Code</li>
+	  <li><b>For API Testing:</b> Postman</li>
+	  <li><b>For Designs:</b> Figma</li>
+	</ul>
+</details> 
+
+
+
+<details>
+<summary><b>❝ While you are here, here’s a Dev Quote</b></summary>
+
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</details>
