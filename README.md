@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Suryansh Pandey 👨‍💻
 
 <!--
 **Suryansh23102002/Suryansh23102002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
