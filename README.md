@@ -1,8 +1,10 @@
-# 👋 Hey, I'm Suryansh Pandey  
+## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Suryansh Pandey👨‍💻
+
+<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
 ### 🚀 MERN Stack Developer | 💡 Problem Solver | 🌐 Open Source Enthusiast  
 
-Welcome to my GitHub profile!  
+### Glad to see you here! 
 I specialize in building **full-stack web applications** using **MongoDB, Express, React, and Node.js**.  
 I’m passionate about **scalable apps**, **clean code**, and exploring new technologies.  
 
@@ -33,7 +35,7 @@ I’m passionate about **scalable apps**, **clean code**, and exploring new tech
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Suryansh23102002&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak" />
 </p>
 
@@ -56,4 +58,4 @@ I’m passionate about **scalable apps**, **clean code**, and exploring new tech
 
 ---
 
-⭐️ From [YOUR NAME](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Suryansh](https://github.com/Suryansh23102002)
