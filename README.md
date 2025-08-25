@@ -73,12 +73,28 @@ Currently working on cool full-stack projects 🚀 and always up for collaborati
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/Suryansh23102002/Pingup"><b>🚀 Project One</b></a></td>
+        <td><a href="https://github.com/Suryansh23102002/Pingup"><b>🚀 PingUp</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Suryansh23102002/Pingup?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Suryansh23102002/Pingup?style=flat-square"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Suryansh23102002/Pingup?style=flat-square"/></td>
         <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/Suryansh23102002/Pingup?style=flat-square"/></td>
         <td><img alt="Lang" src="https://img.shields.io/github/languages/top/Suryansh23102002/Pingup?style=flat-square"/></td>
+      </tr>
+	  <tr>
+        <td><a href="https://github.com/Suryansh23102002/Gemini-Clone"><b>🚀 Gemini-Clone</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Suryansh23102002/Gemini-Clone?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Suryansh23102002/Gemini-Clone?style=flat-square"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Suryansh23102002/Gemini-Clone?style=flat-square"/></td>
+        <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/Suryansh23102002/Gemini-Clone?style=flat-square"/></td>
+        <td><img alt="Lang" src="https://img.shields.io/github/languages/top/Suryansh23102002/Gemini-Clone?style=flat-square"/></td>
+      </tr>
+	  <tr>
+        <td><a href="https://github.com/Suryansh23102002/Portfolio"><b>🚀 Portfolio</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Suryansh23102002/Portfolio?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Suryansh23102002/Portfolio?style=flat-square"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Suryansh23102002/Portfolio?style=flat-square"/></td>
+        <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/Suryansh23102002/Portfolio?style=flat-square"/></td>
+        <td><img alt="Lang" src="https://img.shields.io/github/languages/top/Suryansh23102002/Portfolio?style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
